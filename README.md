@@ -1,3 +1,4 @@
-This (temporary) repository holds the OMUSE releases in the Downloads section:
+This (temporary) repository holds the OMUSE releases in the Downloads section.
+Otherwise, its empty.
 
-omuse.tar.gz contains the latest OMUSE source
+The file omuse.tar.gz contains the latest OMUSE source.
