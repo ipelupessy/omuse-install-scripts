@@ -1,4 +1,3 @@
-This (temporary) repository holds the OMUSE releases in the Downloads section.
-Otherwise, its empty.
-
-The file omuse.tar.gz contains the latest OMUSE source.
+This repository holds a collection of install scripts for OMUSE
+The OMUSE releases themselves can be found in the downloads section of
+the main OMUSE repository (https://bitbucket.org/omuse/omuse).
